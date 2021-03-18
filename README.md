@@ -20,7 +20,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 1        | Introducción      | Jueves 18/03 | Video - [Slides](../../blob/master/Clases/01%20-%20Introducción.pdf) |
+| 1        | Introducción      | Jueves 18/03 | Video - [Slides](../../blob/main/Clases/01%20-%20Introducción.pdf) |
 | 1        | Resumen/repaso ML | Martes 22/03 | Video - Slides - Código |
 
 
