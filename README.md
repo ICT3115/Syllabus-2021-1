@@ -21,7 +21,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
 | 1        | Introducción      | Jueves 18/03 | [Video](https://youtu.be/jDW_kl3n4B0) - [Slides](../../blob/main/Clases/01%20-%20Introducción.pdf) |
-| 1        | Resumen/repaso ML | Martes 22/03 | Video - Slides - Código |
+| 1        | Resumen/repaso ML | Martes 22/03 | [Video](https://youtu.be/T5fmQMDJfDA) - [Slides](../../blob/main/Clases/02%20-%20Fundamentos%20de%20Machine%20Learning%20Parte%201.pdf)|
 
 
 ## Notas
