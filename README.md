@@ -26,6 +26,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 1        | Fundamentos de ML Parte 3| Martes 30/03 | [Video](https://youtu.be/zSL2A7LIu0I) - [Slides](../../blob/main/Clases/Capítulo%201/04%20-%20Fundamentos%20de%20Machine%20Learning%20Parte%203.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%201/Ejemplos)|
 | 2        | Introducción a Redes Neuronales Parte 1| Jueves 01/04 | [Video](https://youtu.be/ErjP0V_DgTQ) - [Slides](../../blob/main/Clases/Capítulo%202/01%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%201.pdf)|
 | 2        | Introducción a Redes Neuronales Parte 2| Martes 06/04 | [Video](https://youtu.be/BIhl1QA1nkA) - [Slides](../../blob/main/Clases/Capítulo%202/02%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%202.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%202/Ejemplos)|
+| 2        | Árboles y Ensambles| Jueves 08/04 | Video - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) |
 
 
 
