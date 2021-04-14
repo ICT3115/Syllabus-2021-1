@@ -16,7 +16,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  Donde **T** es el promedio de las tareas, **L** el promedio de las lecturas y **P** es la nota de presentación de paper.
 
 
-## Calendario 
+## Calendario de clases
 
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
@@ -29,6 +29,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 2        | Árboles y Ensambles| Jueves 08/04 | [Video](https://youtu.be/pQKIhLMYuGw) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%202/Ejemplos)|
 | 2        | Redes Neuronales y Datos Tabulados| Martes 13/04 | [Video](https://youtu.be/ps5eqcwFUlA) - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - Ejemplos|
 
+
+## Calendario de presentaciones
+
+| Capítulo |	Fecha        | Paper      | Presentador | Recursos |
+| :-:      | :-:          | :-:        | :-:         | :-:      |
+| 2        | Martes 20/04 |            |             |Video - Slides |
+| 3        | Jueves 06/05 |            |             |Video - Slides |
+| 4        | Martes 01/06 |            |             |Video - Slides |
+| 5        | Martes 22/06 |            |             |Video - Slides |
+| 6        | Jueves 08/07 |            |             |Video - Slides |
 
 
 
