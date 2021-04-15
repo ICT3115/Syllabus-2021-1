@@ -32,13 +32,20 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 ## Calendario de presentaciones
 
-| Capítulo |	Fecha        | Paper      | Presentador | Recursos |
-| :-:      | :-:          | :-:        | :-:         | :-:      |
-| 2        | Martes 20/04 |            |             |Video - Slides |
-| 3        | Jueves 06/05 |            |             |Video - Slides |
-| 4        | Martes 01/06 |            |             |Video - Slides |
-| 5        | Martes 22/06 |            |             |Video - Slides |
-| 6        | Jueves 08/07 |            |             |Video - Slides |
+| Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
+| :-:                       | :-:          | :-:        | :-:              | :-:      |
+| 2 - Datos tabulados       | Martes 20/04 |            | Martín López     | Video - Slides |
+| 2 - Datos tabulados       | Martes 20/04 |            | José Niño        | Video - Slides |
+| 3 - Datos visuales        | Jueves 06/05 |            | Camila Vera      | Video - Slides |
+| 3 - Datos visuales        | Jueves 06/05 |            | Andrés Ávalos    | Video - Slides |
+| 3 - Datos visuales        | Jueves 06/05 |            | Andrés Fernández | Video - Slides |
+| 4 - Datos secuenciales    | Martes 01/06 |            | Jeremías Molina  | Video - Slides |
+| 4 - Datos secuenciales    | Martes 01/06 |            | Vicente del Río  | Video - Slides |
+| 5 - Aprendizaje reforzado | Martes 22/06 |            | Jaime Moya       | Video - Slides |
+| 5 - Aprendizaje reforzado | Martes 22/06 |            | Matías Gutiérrez | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 |            | Darío Farren     | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 |            | Carlos Muñoz     | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 |            | Felipe Gutiérrez | Video - Slides |
 
 
 
