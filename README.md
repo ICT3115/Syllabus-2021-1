@@ -34,8 +34,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 2 - Datos tabulados       | Martes 20/04 |            | Martín López     | Video - Slides |
-| 2 - Datos tabulados       | Martes 20/04 |            | José Niño        | Video - Slides |
+| 2 - Datos tabulados       | Martes 20/04 | [Deep Auto Encoder Neural Networks for Short-Term Traffic Congestion Prediction of Transportation Networks](../../blob/main/Lecturas/04-05%20al%2004-11/2019%20-%20Deep%20Autoencoder%20Neural%20Networks%20for%20Short-Term%20Traffic%20Congestion%20Prediction%20of%20Transportation%20Networks.pdf) | Martín López     | Video - Slides |
+| 2 - Datos tabulados       | Martes 20/04 | [Deep Architecture for Citywide Travel Time Estimation Incorporating Contextual Information](../../blob/main/Lecturas/04-12%20al%2004-18/2019%20-%20Deep%20Architecture%20for%20Citywide%20Travel%20Time%20Estimation%20Incorporating%20Contextual%20Information.pdf) | José Niño        | Video - Slides |
 | 3 - Datos visuales        | Jueves 06/05 |            | Camila Vera      | Video - Slides |
 | 3 - Datos visuales        | Jueves 06/05 |            | Andrés Ávalos    | Video - Slides |
 | 3 - Datos visuales        | Jueves 06/05 |            | Andrés Fernández | Video - Slides |
