@@ -29,7 +29,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 2        | Árboles y Ensambles Parte 1| Jueves 08/04 | [Video](https://youtu.be/pQKIhLMYuGw) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%202/Ejemplos)|
 | 2        | Árboles y Ensambles Parte 2| Martes 13/04 | [Video](https://youtu.be/ps5eqcwFUlA) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) |
 | 2        | Redes Neuronales y Datos Tabulados| Jueves 15/04 | Video - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - Ejemplos|
-| 3        | Redes Convolucionales para Datos Visuales | Jueves 22/04 | Video - Slides - Ejemplos|
+| 3        | Redes Convolucionales para Datos Visuales | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - Ejemplos|
 
 
 ## Calendario de presentaciones
@@ -56,6 +56,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:    | :-:   | :-:          | 
 | 05/04  | 11/04 | [Lecturas](../../tree/main/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/APCqNBwJfVPksN1AA) |
 | 12/04  | 18/04 | [Lecturas](../../tree/main/Lecturas/04-12%20al%2004-18) - [Entrega](https://forms.gle/dU6ruU66vNMJmkpf6) |
+| 22/04  | 28/04 | [Lecturas](../../tree/main/Lecturas/04-22%20al%2004-28) - [Entrega](https://forms.gle/1nuNgtsoaqdd9AYb9) |
 
 
 ## Notas
