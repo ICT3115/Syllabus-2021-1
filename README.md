@@ -29,7 +29,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 2        | Árboles y Ensambles Parte 1| Jueves 08/04 | [Video](https://youtu.be/pQKIhLMYuGw) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
 | 2        | Árboles y Ensambles Parte 2| Martes 13/04 | [Video](https://youtu.be/ps5eqcwFUlA) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
 | 2        | Redes Neuronales y Datos Tabulados| Jueves 15/04 | Video - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/03%20-%20embeddings.ipynb)|
-| 3        | Redes Convolucionales para Datos Visuales | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - Ejemplos|
+| 3        | Redes Convolucionales para Datos Visuales Parte 1| Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf)|
+| 3        | Redes Convolucionales para Datos Visuales Parte 2| Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - Ejemplos|
 
 
 ## Calendario de presentaciones
