@@ -59,6 +59,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 05/04  | 11/04 | [Lecturas](../../tree/main/Lecturas/04-05%20al%2004-11) - [Entrega](https://forms.gle/APCqNBwJfVPksN1AA) |
 | 12/04  | 18/04 | [Lecturas](../../tree/main/Lecturas/04-12%20al%2004-18) - [Entrega](https://forms.gle/dU6ruU66vNMJmkpf6) |
 | 22/04  | 28/04 | [Lecturas](../../tree/main/Lecturas/04-22%20al%2004-28) - [Entrega](https://forms.gle/1nuNgtsoaqdd9AYb9) |
+| 29/04  | 05/05 | [Lecturas](../../tree/main/Lecturas/04-29%20al%2005-05) - [Entrega](https://forms.gle/Xdityba7qmdR4wEB7) |
 
 
 ## Notas
