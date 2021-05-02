@@ -41,7 +41,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 2        | Introducción a Redes Neuronales Parte 2| Martes 06/04 | [Video](https://youtu.be/BIhl1QA1nkA) - [Slides](../../blob/main/Clases/Capítulo%202/02%20-%20Introducción%20a%20Redes%20Neuronales%20Parte%202.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%202/Ejemplos)|
 | 2        | Árboles y Ensambles Parte 1| Jueves 08/04 | [Video](https://youtu.be/pQKIhLMYuGw) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
 | 2        | Árboles y Ensambles Parte 2| Martes 13/04 | [Video](https://youtu.be/ps5eqcwFUlA) - [Slides](../../blob/main/Clases/Capítulo%202/03%20-%20Árboles%20y%20Ensambles.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/02%20-%20árboles_y_ensambles.ipynb)|
-| 2        | Redes Neuronales y Datos Tabulados| Jueves 15/04 | Video - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/03%20-%20embeddings.ipynb) |
+| 2        | Redes Neuronales y Datos Tabulados| Jueves 15/04 | [Video](https://youtu.be/P1Vx5goB5RI) - [Slides](../../blob/main/Clases/Capítulo%202/04%20-%20Redes%20Neuronales%20y%20Datos%20Tabulados.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%202/Ejemplos/03%20-%20embeddings.ipynb) |
 
 </details>
 
