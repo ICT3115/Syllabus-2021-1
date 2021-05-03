@@ -87,7 +87,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
 | 3 - Datos visuales        | Jueves 06/05 | [Dense semantic labeling of sub-decimeter resolution images with convolutional neural networks](../../blob/main/Lecturas/04-29%20al%2005-05/2017%20-%20Dense%20semantic%20labeling%20of%20sub-decimeter%20resolution%20images%20with%20convolutional%20neural%20networks.pdf) | Camila Vera      | Video - Slides |
 | 3 - Datos visuales        | Jueves 06/05 | [A Deep Learning Model for Transportation Mode Detection Based on Smartphone Sensing Data](../../blob/main/Lecturas/04-22%20al%2004-28/2020%20-%20A%20Deep%20Learning%20Model%20for%20Transportation%20Mode%20Detection%20Based%20on%20Smartphone%20Sensing%20Data.pdf) | Andrés Ávalos | Video - Slides |
-| 3 - Datos visuales        | Jueves 06/05 |            | Andrés Fernández | Video - Slides |
+| 3 - Datos visuales        | Jueves 06/05 | [A Closer Look at Spatiotemporal Convolutions for Action Recognition](../../blob/main/Lecturas/04-29%20al%2005-05/(Optativa)%202018%20-%20A%20Closer%20Look%20at%20Spatiotemporal%20Convolutions%20for%20Action%20Recognition.pdf) | Andrés Fernández | Video - Slides |
 
 </details>
 
