@@ -19,7 +19,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 ## Calendario de clases
 
 <details>
-<summary>Capítulo 1</summary>
+<summary>Capítulo 1: Introducción</summary>
 <br>
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
@@ -32,7 +32,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 </details>
  
 <details>
-<summary>Capítulo 2</summary>
+<summary>Capítulo 2: Datos Tabulados</summary>
 <br>
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
@@ -45,8 +45,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
-<summary>Capítulo 3</summary>
+<details>
+<summary>Capítulo 3: Datos Visuales</summary>
 <br>
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
@@ -55,6 +55,17 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 3        | Redes Convolucionales para Datos Visuales Parte 2 | Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - Ejemplos |
 | 3        | Segmentación Semántica | Jueves 29/04 | [Video](https://youtu.be/TCqUaVEV-XU) - [Slides](../../blob/main/Clases/Capítulo%203/02%20-%20Segmentación%20Semántica.pdf) - Ejemplos |
 | 3        | Aprendizaje Multitarea | Martes 04/05 | [Video](https://youtu.be/H4qmNNG6aIE) - [Slides](../../blob/main/Clases/Capítulo%203/03%20-%20Aprendizaje%20Multitarea.pdf) - Ejemplos |
+
+</details>
+
+<details open>
+<summary>Capítulo 4: Datos secuenciales</summary>
+<br>
+ 
+| Capítulo |	Tópico           | Fecha          | Recursos |
+| :-:      | :-:               | :-:          | :-:      |
+| 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos |
+| 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | Video - Slides - Ejemplos |
 
 </details>
 
@@ -80,7 +91,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 3</summary>
 <br>
 
@@ -92,7 +103,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 4</summary>
 <br>
 
