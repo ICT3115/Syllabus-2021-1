@@ -64,7 +64,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos |
+| 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) |
 | 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | Video - Slides - Ejemplos |
 
 </details>
