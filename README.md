@@ -151,7 +151,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2</summary>
 <br>
  
@@ -159,6 +159,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:    | :-:   | :-:          | 
 | 22/04  | 28/04 | [Lecturas](../../tree/main/Lecturas/04-22%20al%2004-28) - [Entrega](https://forms.gle/1nuNgtsoaqdd9AYb9) |
 | 29/04  | 05/05 | [Lecturas](../../tree/main/Lecturas/04-29%20al%2005-05) - [Entrega](https://forms.gle/Xdityba7qmdR4wEB7) |
+
+</details>
+
+<details open>
+<summary>Capítulo 2</summary>
+<br>
+ 
+| Inicio |	Fin   | Recursos |
+| :-:    | :-:   | :-:          | 
+| 19/05  | 25/05 | [Lecturas](../../tree/main/Lecturas/05-19%20al%2005-25) - [Entrega](https://forms.gle/mMiesc8hHCZ44Dms7) |
 
 </details>
 
