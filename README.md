@@ -65,7 +65,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
 | 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) |
-| 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | Video - Slides - Ejemplos |
+| 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | [Video](https://youtu.be/CGIOOm1jGug) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos |
 
 </details>
 
@@ -73,7 +73,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Tarea   |	Tópicos                          | Fecha Entrega | Recursos |
 | :-:     | :-:                              | :-:           | :-:      |
-| Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - Buzón |
+| Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
 
  
 
