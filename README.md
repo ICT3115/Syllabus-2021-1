@@ -101,7 +101,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
 | 3 - Datos visuales        | Jueves 06/05 | [A Deep Learning Model for Transportation Mode Detection Based on Smartphone Sensing Data](../../blob/main/Lecturas/04-22%20al%2004-28/2020%20-%20A%20Deep%20Learning%20Model%20for%20Transportation%20Mode%20Detection%20Based%20on%20Smartphone%20Sensing%20Data.pdf) | Andrés Ávalos | [Video](https://youtu.be/DtCsxmgNVW0) - [Slides](../../blob/main/Presentaciones/05-06%20-%20Andrés%20Ávalos.pdf) |
 | 3 - Datos visuales        | Jueves 06/05 | [Dense semantic labeling of sub-decimeter resolution images with convolutional neural networks](../../blob/main/Lecturas/04-29%20al%2005-05/2017%20-%20Dense%20semantic%20labeling%20of%20sub-decimeter%20resolution%20images%20with%20convolutional%20neural%20networks.pdf) | Camila Vera  | [Video](https://youtu.be/nhhdPQN7RSA) - [Slides](../../blob/main/Presentaciones/05-06%20-%20Camila%20Vera.pdf) |
-| 3 - Datos visuales        | Jueves 06/05 | [A Closer Look at Spatiotemporal Convolutions for Action Recognition](../../blob/main/Lecturas/04-29%20al%2005-05/(Optativa)%202018%20-%20A%20Closer%20Look%20at%20Spatiotemporal%20Convolutions%20for%20Action%20Recognition.pdf) | Andrés Fernández | Video - Slides |
 
 </details>
 
@@ -111,7 +110,6 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 4 - Datos secuenciales    | Martes 01/06 |            | Jeremías Molina  | Video - Slides |
 | 4 - Datos secuenciales    | Martes 01/06 |            | Vicente del Río  | Video - Slides |
 
 </details>
@@ -143,7 +141,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 ## Lecturas
 
 <details>
-<summary>Capítulo 1</summary>
+<summary>Capítulo 2</summary>
 <br>
  
 | Inicio |	Fin   | Recursos |
@@ -154,7 +152,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 </details>
 
 <details>
-<summary>Capítulo 2</summary>
+<summary>Capítulo 3</summary>
 <br>
  
 | Inicio |	Fin   | Recursos |
@@ -165,12 +163,13 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 </details>
 
 <details open>
-<summary>Capítulo 2</summary>
+<summary>Capítulo 4</summary>
 <br>
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
 | 19/05  | 25/05 | [Lecturas](../../tree/main/Lecturas/05-19%20al%2005-25) - [Entrega](https://forms.gle/mMiesc8hHCZ44Dms7) |
+| 26/05  | 01/06 | [Lecturas](../../tree/main/Lecturas/05-26%20al%2006-02) - [Entrega](https://forms.gle/4LXvRXfhm9aYWkg77) |
 
 </details>
 
