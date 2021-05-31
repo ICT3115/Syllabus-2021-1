@@ -111,7 +111,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 4 - Datos secuenciales    | Martes 01/06 |            | Vicente del Río  | Video - Slides |
+| 4 - Datos secuenciales    | Martes 01/06 | Combining Residual and LSTM Recurrent Networks for Transportation Mode Detection Using Multimodal Sensors Integrated in Smartphones           | Vicente del Río  | [Video](https://youtu.be/MT65Mxx4M-U) - [Slides](blob/main/Presentaciones/06-01%20-%20Vicente%20del%20Río.pdf) |
 
 </details>
 
