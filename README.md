@@ -51,8 +51,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 3        | Redes Convolucionales para Datos Visuales Parte 1 | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf)|
-| 3        | Redes Convolucionales para Datos Visuales Parte 2 | Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - Ejemplos |
+| 3        | Redes Convolucionales para Datos Visuales Parte 1 | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%203/Ejemplos) |
+| 3        | Redes Convolucionales para Datos Visuales Parte 2 | Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%203/Ejemplos) |
 | 3        | Segmentación Semántica | Jueves 29/04 | [Video](https://youtu.be/TCqUaVEV-XU) - [Slides](../../blob/main/Clases/Capítulo%203/02%20-%20Segmentación%20Semántica.pdf) - Ejemplos |
 | 3        | Aprendizaje Multitarea | Martes 04/05 | [Video](https://youtu.be/H4qmNNG6aIE) - [Slides](../../blob/main/Clases/Capítulo%203/03%20-%20Aprendizaje%20Multitarea.pdf) - Ejemplos |
 
@@ -67,7 +67,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) |
 | 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | [Video](https://youtu.be/CGIOOm1jGug) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos |
 | 4        | Modelos de lenguaje | Martes 25/05 | [Video](https://youtu.be/zMukLYfWUEI) - [Slides](../../blob/main/Clases/Capítulo%204/02%20-%20Modelos%20de%20Lenguaje.pdf) - Ejemplos |
- | 4     | Mecanismos de atención | Jueves 27/05 | [Video](https://youtu.be/46Bd-gLfQBs) - [Slides](../../blob/main/Clases/Capítulo%204/03%20-%20Mecanismos%20de%20atención.pdf) - Ejemplos |
+| 4     | Mecanismos de atención | Jueves 27/05 | [Video](https://youtu.be/46Bd-gLfQBs) - [Slides](../../blob/main/Clases/Capítulo%204/03%20-%20Mecanismos%20de%20atención.pdf) - Ejemplos |
+| 4     | Autoatención | Martes 01/06 | [Video](https://youtu.be/KCMbe-OLWRE) - [Slides](../../blob/main/Clases/Capítulo%204/04%20-%20Autoatención.pdf) |
 
 </details>
 
@@ -76,7 +77,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea   |	Tópicos                          | Fecha Entrega | Recursos |
 | :-:     | :-:                              | :-:           | :-:      |
 | Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
-| Tarea 2 | Procesamiento de datos visuales  | Martes 08/06   | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
+| Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
 
  
 
