@@ -51,8 +51,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 3        | Redes Convolucionales para Datos Visuales Parte 1 | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%203/Ejemplos) |
-| 3        | Redes Convolucionales para Datos Visuales Parte 2 | Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../tree/main/Clases/Capítulo%203/Ejemplos) |
+| 3        | Redes Convolucionales para Datos Visuales Parte 1 | Jueves 22/04 | [Video](https://youtu.be/MUUnrXiUMMQ) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%203/Ejemplos/01%20-%20CNNs.ipynb) |
+| 3        | Redes Convolucionales para Datos Visuales Parte 2 | Martes 27/04 | [Video](https://youtu.be/D3RdEOWyQOc) - [Slides](../../blob/main/Clases/Capítulo%203/01%20-%20Redes%20Convolucionales%20para%20Datos%20Visuales.pdf) - [Ejemplos](../../blob/main/Clases/Capítulo%203/Ejemplos/02%20-%20transfer_learning.ipynb) |
 | 3        | Segmentación Semántica | Jueves 29/04 | [Video](https://youtu.be/TCqUaVEV-XU) - [Slides](../../blob/main/Clases/Capítulo%203/02%20-%20Segmentación%20Semántica.pdf) - Ejemplos |
 | 3        | Aprendizaje Multitarea | Martes 04/05 | [Video](https://youtu.be/H4qmNNG6aIE) - [Slides](../../blob/main/Clases/Capítulo%203/03%20-%20Aprendizaje%20Multitarea.pdf) - Ejemplos |
 
