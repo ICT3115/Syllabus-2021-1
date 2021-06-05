@@ -77,7 +77,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea   |	Tópicos                          | Fecha Entrega | Recursos |
 | :-:     | :-:                              | :-:           | :-:      |
 | Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
-| Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
+| Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
 
  
 
