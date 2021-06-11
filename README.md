@@ -116,7 +116,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4</summary>
 <br>
 
@@ -126,14 +126,14 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 5</summary>
 <br>
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 5 - Aprendizaje reforzado | Martes 22/06 |            | Jaime Moya       | Video - Slides |
-| 5 - Aprendizaje reforzado | Martes 22/06 |            | Matías Gutiérrez | Video - Slides |
+| 5 - Control de agentes | Martes 22/06 |            | Jaime Moya       | Video - Slides |
+| 5 - Control de agentes | Martes 22/06 |            | Matías Gutiérrez | Video - Slides |
 
 </details>
 
@@ -174,7 +174,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4</summary>
 <br>
  
@@ -182,6 +182,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:    | :-:   | :-:          | 
 | 19/05  | 25/05 | [Lecturas](../../tree/main/Lecturas/05-19%20al%2005-25) - [Entrega](https://forms.gle/mMiesc8hHCZ44Dms7) |
 | 26/05  | 01/06 | [Lecturas](../../tree/main/Lecturas/05-26%20al%2006-02) - [Entrega](https://forms.gle/4LXvRXfhm9aYWkg77) |
+
+</details>
+
+<details open>
+<summary>Capítulo 5</summary>
+<br>
+ 
+| Inicio |	Fin   | Recursos |
+| :-:    | :-:   | :-:          | 
+| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/06-10%20al%2006-22) - Entrega |
 
 </details>
 
