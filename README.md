@@ -58,7 +58,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: Datos secuenciales</summary>
 <br>
  
@@ -70,6 +70,16 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | 4     | Mecanismos de atención | Jueves 27/05 | [Video](https://youtu.be/46Bd-gLfQBs) - [Slides](../../blob/main/Clases/Capítulo%204/03%20-%20Mecanismos%20de%20atención.pdf) - Ejemplos |
 | 4     | Autoatención | Martes 01/06 | [Video](https://youtu.be/KCMbe-OLWRE) - [Slides](../../blob/main/Clases/Capítulo%204/04%20-%20Autoatención.pdf) |
 
+</details>
+
+<details open>
+<summary>Capítulo 5: Control de agentes</summary>
+<br>
+ 
+| Capítulo |	Tópico           | Fecha          | Recursos |
+| :-:      | :-:               | :-:          | :-:      |
+| 5        | Control de agenes basado en aprendizaje Parte 1 | Jueves 10/06 | [Video](https://youtu.be/7mskZ6LYgyk) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
+ 
 </details>
 
 ## Tareas
@@ -112,7 +122,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 4 - Datos secuenciales    | Martes 01/06 | Combining Residual and LSTM Recurrent Networks for Transportation Mode Detection Using Multimodal Sensors Integrated in Smartphones           | Vicente del Río  | [Video](https://youtu.be/MT65Mxx4M-U) - [Slides](blob/main/Presentaciones/06-01%20-%20Vicente%20del%20Río.pdf) |
+| 4 - Datos secuenciales    | Martes 01/06 | [Combining Residual and LSTM Recurrent Networks for Transportation Mode Detection Using Multimodal Sensors Integrated in Smartphones](../../blob/main/Lecturas/05-26%20al%2006-02/2021%20-%20Combining%20Residual%20and%20LSTM%20Recurrent%20Networks%20for%20Transportation%20Mode%20Detection%20Using%20Multimodal%20Sensors%20Integrated%20in%20Smartphones.pdf) | Vicente del Río  | [Video](https://youtu.be/MT65Mxx4M-U) - [Slides](blob/main/Presentaciones/06-01%20-%20Vicente%20del%20Río.pdf) |
 
 </details>
 
