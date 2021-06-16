@@ -89,6 +89,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:     | :-:                              | :-:           | :-:      |
 | Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
 | Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
+| Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - Sesión consultas - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
 
  
 
@@ -192,7 +193,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
-| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/06-10%20al%2006-22) - Entrega |
+| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/06-10%20al%2006-22) - [Entrega](https://forms.gle/p7enoKBHyo7LSDrLA) |
 
 </details>
 
