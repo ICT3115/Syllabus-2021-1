@@ -79,6 +79,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
 | 5        | Control de agenes basado en aprendizaje Parte 1 | Jueves 10/06 | [Video](https://youtu.be/7mskZ6LYgyk) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
+| 5        | Control de agenes basado en aprendizaje Parte 2 | Martes 15/06 | [Video](https://youtu.be/9wIHOch_jTM) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
  
 </details>
 
