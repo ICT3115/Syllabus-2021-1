@@ -134,8 +134,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 5 - Control de agentes | Martes 22/06 |            | Jaime Moya       | Video - Slides |
-| 5 - Control de agentes | Martes 22/06 |            | Matías Gutiérrez | Video - Slides |
+| 5 - Control de agentes    | Martes 22/06 | [Dissipating Stop-And-Go Waves in Closed and Open Networks Via Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2018%20-%20Dissipating%20Stop-And-Go%20Waves%20in%20Closed%20and%20Open%20Networks%20Via%20Deep%20Reinforcement%20Learning.pdf) | Jaime Moya | Video - Slides |
+| 5 - Control de agentes    | Martes 22/06 | [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2020%20-%20Context-Aware%20Taxi%20Dispatching%20at%20City-Scale%20Using%20Deep%20Reinforcement%20Learning.pdf) | Matías Gutiérrez | Video - Slides |
 
 </details>
 
@@ -193,7 +193,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
-| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/06-10%20al%2006-22) - [Entrega](https://forms.gle/p7enoKBHyo7LSDrLA) |
+| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/06-10%20al%2006-22) - [Entrega](https://forms.gle/Q1jiTvDULZJNZ95F9) |
 
 </details>
 
