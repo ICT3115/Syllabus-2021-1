@@ -78,8 +78,9 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
-| 5        | Control de agenes basado en aprendizaje Parte 1 | Jueves 10/06 | [Video](https://youtu.be/7mskZ6LYgyk) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
-| 5        | Control de agenes basado en aprendizaje Parte 2 | Martes 15/06 | [Video](https://youtu.be/9wIHOch_jTM) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
+| 5        | Control de agentes basado en aprendizaje | Jueves 10/06 | [Video](https://youtu.be/7mskZ6LYgyk) - [Slides](../../blob/main/Clases/Capítulo%205/01%20-%20Control%20de%20agentes%20basado%20en%20aprendizaje.pdf) |
+| 5        | Aprendizaje reforzado y funciones de valor | Martes 15/06 | [Video](https://youtu.be/9wIHOch_jTM) - [Slides](../../blob/main/Clases/Capítulo%205/02%20-%20Aprendizaje%20reforzado%20y%20funciones%20de%20valor.pdf) |
+ | 5        | Optimización directa de políticas | Jueves 17/06 | [Video](https://youtu.be/e8Vp-NDCvHg) - [Slides](../../blob/main/Clases/Capítulo%205/03%20-%20Optimización%20directa%20de%20políticas.pdf) |
  
 </details>
 
