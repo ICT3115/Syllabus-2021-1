@@ -90,7 +90,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:     | :-:                              | :-:           | :-:      |
 | Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
 | Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
-| Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - Sesión consultas - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
+| Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - [(mini) Sesión consultas](https://youtu.be/T9bFW_aqn-8) - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
 
  
 
@@ -135,8 +135,8 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 5 - Control de agentes    | Martes 22/06 | [Dissipating Stop-And-Go Waves in Closed and Open Networks Via Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2018%20-%20Dissipating%20Stop-And-Go%20Waves%20in%20Closed%20and%20Open%20Networks%20Via%20Deep%20Reinforcement%20Learning.pdf) | Jaime Moya | Video - Slides |
-| 5 - Control de agentes    | Martes 22/06 | [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2020%20-%20Context-Aware%20Taxi%20Dispatching%20at%20City-Scale%20Using%20Deep%20Reinforcement%20Learning.pdf) | Matías Gutiérrez | Video - Slides |
+| 5 - Control de agentes    | Martes 22/06 | [Dissipating Stop-And-Go Waves in Closed and Open Networks Via Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2018%20-%20Dissipating%20Stop-And-Go%20Waves%20in%20Closed%20and%20Open%20Networks%20Via%20Deep%20Reinforcement%20Learning.pdf) | Jaime Moya | [Video](https://youtu.be/Fk_I1SExSW8) - [Slides](../../blob/main/Presentaciones/06-22%20-%20Jaime%20Moya.pdf) |
+| 5 - Control de agentes    | Martes 22/06 | [Context-Aware Taxi Dispatching at City-Scale Using Deep Reinforcement Learning](../../blob/main/Lecturas/06-10%20al%2006-22/2020%20-%20Context-Aware%20Taxi%20Dispatching%20at%20City-Scale%20Using%20Deep%20Reinforcement%20Learning.pdf) | Matías Gutiérrez | [Video](https://youtu.be/7oCCAK5zzJI) - [Slides](../../blob/main/Presentaciones/06-22%20-%20Matías%20Gutiérrez.pdf) |
 
 </details>
 
