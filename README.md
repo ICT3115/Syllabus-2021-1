@@ -65,7 +65,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
 | 4        | Redes Neuronales Recurrentes Parte 1 | Martes 18/05 | [Video](https://youtu.be/zDBkyG8MZSg) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) |
-| 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | [Video](https://youtu.be/CGIOOm1jGug) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - Ejemplos |
+| 4        | Redes Neuronales Recurrentes Parte 2 | Jueves 20/05 | [Video](https://youtu.be/CGIOOm1jGug) - [Slides](../../blob/main/Clases/Capítulo%204/01%20-%20Redes%20Neuronales%20Recurrentes%20(RNN).pdf) - [Ejemplo](../../blob/main/Clases/Capítulo%204/Ejemplos/01%20-%20LSTM.ipynb) |
 | 4        | Modelos de lenguaje | Martes 25/05 | [Video](https://youtu.be/zMukLYfWUEI) - [Slides](../../blob/main/Clases/Capítulo%204/02%20-%20Modelos%20de%20Lenguaje.pdf) - Ejemplos |
 | 4     | Mecanismos de atención | Jueves 27/05 | [Video](https://youtu.be/46Bd-gLfQBs) - [Slides](../../blob/main/Clases/Capítulo%204/03%20-%20Mecanismos%20de%20atención.pdf) - Ejemplos |
 | 4     | Autoatención | Martes 01/06 | [Video](https://youtu.be/KCMbe-OLWRE) - [Slides](../../blob/main/Clases/Capítulo%204/04%20-%20Autoatención.pdf) |
