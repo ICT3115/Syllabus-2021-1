@@ -91,7 +91,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Capítulo |	Tópico           | Fecha          | Recursos |
 | :-:      | :-:               | :-:          | :-:      |
 | 6        | Aprendizaje sobre datos estructurados | Martes 29/06 | [Video](https://youtu.be/E34oCvMoT6Y) - [Slides](../../blob/main/Clases/Capítulo%206/01%20-%20Aprendizaje%20sobre%20datos%20estructurados.pdf) |
-| 6        | Redes de grafos convolucionales | Jueves 01/07 | Video - [Slides](../../blob/main/Clases/Capítulo%206/02%20-%20Redes%20de%20grafos%20convolucionales.pdf) - [Ejemplo](../../blob/main/Clases/Capítulo%206/Ejemplos/01%20-%20GCN.ipynb) |
+| 6        | Redes de grafos convolucionales | Jueves 01/07 | [Video](https://youtu.be/t5hztt--elA) - [Slides](../../blob/main/Clases/Capítulo%206/02%20-%20Redes%20de%20grafos%20convolucionales.pdf) - [Ejemplo](../../blob/main/Clases/Capítulo%206/Ejemplos/01%20-%20GCN.ipynb) |
 
  
 </details>
@@ -218,7 +218,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
  
 | Inicio |	Fin   | Recursos |
 | :-:    | :-:   | :-:          | 
-| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/07-02%20al%2007-08) - Entrega |
+| 10/06  | 22/06 | [Lecturas](../../tree/main/Lecturas/07-02%20al%2007-08) - [Entrega](https://forms.gle/tX4ounYKYWDcGU3f9) |
 
 </details>
 
