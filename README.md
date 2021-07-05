@@ -92,6 +92,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | :-:      | :-:               | :-:          | :-:      |
 | 6        | Aprendizaje sobre datos estructurados | Martes 29/06 | [Video](https://youtu.be/E34oCvMoT6Y) - [Slides](../../blob/main/Clases/Capítulo%206/01%20-%20Aprendizaje%20sobre%20datos%20estructurados.pdf) |
 | 6        | Redes de grafos convolucionales | Jueves 01/07 | [Video](https://youtu.be/t5hztt--elA) - [Slides](../../blob/main/Clases/Capítulo%206/02%20-%20Redes%20de%20grafos%20convolucionales.pdf) - [Ejemplo](../../blob/main/Clases/Capítulo%206/Ejemplos/01%20-%20GCN.ipynb) |
+| 6        | Node embeddings | Martes 06/07 | Video - Slides - Ejemplo |
 
  
 </details>
@@ -103,10 +104,10 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 | Tarea 1 | Procesamiento de datos tabulados | Lunes 24/05   | [Enunciado](../../blob/main/Tareas/T1/T1.pdf) - [Buzón](https://forms.gle/KbwR9gT5bBhJdH2u8) |
 | Tarea 2 | Procesamiento de datos visuales  | Martes 08/06  | [Enunciado](../../blob/main/Tareas/T2/T2.pdf) - [Sesión consultas](https://youtu.be/iBQT7kCpjnY) - [Buzón](https://forms.gle/sT9khzvhnfd5kETM9) |
 | Tarea 3 | Procesamiento de datos secuenciales | Jueves 01/07  | [Enunciado](../../blob/main/Tareas/T3/T3.pdf) - [Sesión consultas 1](https://youtu.be/T9bFW_aqn-8) - [Sesión consultas 2](https://youtu.be/7YIB9DxT0T0) - [Buzón](https://forms.gle/bTnjcPVYn9JZvH9P9) |
+| Tarea 4 | El desafío final                 | -  | [Enunciado](../../blob/main/Tareas/T4/T4.pdf) - Buzón |
 
 
 
- 
 
 ## Calendario de presentaciones
 
@@ -143,7 +144,7 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 5</summary>
 <br>
 
@@ -154,15 +155,15 @@ Las evaluaciones serán efectuadas por medio de tareas, lecturas y presentacione
 
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 6</summary>
 <br>
 
 | Capítulo                  |	Fecha        | Paper      | Presentador      | Recursos |
 | :-:                       | :-:          | :-:        | :-:              | :-:      |
-| 6 - Grafos                | Jueves 08/07 |            | Darío Farren     | Video - Slides |
-| 6 - Grafos                | Jueves 08/07 |            | Carlos Muñoz     | Video - Slides |
-| 6 - Grafos                | Jueves 08/07 |            | Felipe Gutiérrez | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 | [T-GCN: A Temporal Graph Convolutional Network for Traffic Prediction](../../blob/main/Lecturas/07-02%20al%2007-08/2020%20-%20T-GCN%20-%20A%20Temporal%20Graph%20Convolutional%20Network%20for%20Traffic%20Prediction.pdf) | Darío Farren  | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 | [Semi-Supervised Classification with Graph Convolutional Networks](../../blob/main/Lecturas/07-02%20al%2007-08/2017%20-%20Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf) | Carlos Muñoz  | Video - Slides |
+| 6 - Grafos                | Jueves 08/07 | [Graph Attention Networks](../../blob/main/Lecturas/07-02%20al%2007-08/2018%20-%20Graph%20Attention%20Networks.pdf) | Felipe Gutiérrez | Video - Slides |
 
 </details>
 
